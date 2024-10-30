@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "id":"101",
+            "name":"Hashira",
+            "salary":"125000"
+        },
+        {
+            "id":"102",
+            "name":"Alita",
+            "salary":"113000"
+        },
+        {
+            "id":"103",
+            "name":"Hinata",
+            "salary":"219000"
+        }
+    ]
+}
